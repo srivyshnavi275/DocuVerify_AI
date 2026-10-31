@@ -1,4 +1,4 @@
-College Data Mismatch Detection System
+DOCUVERIFY_AI
 
 📌 Project Overview
 
@@ -39,7 +39,7 @@ We propose an AI-powered system that:
 - Pandas
 - NumPy
 - Machine Learning / AI
-- Streamlit (Frontend, if used)
+- Google AI Studio
 - Git and GitHub
 
 📂 Project Structure
